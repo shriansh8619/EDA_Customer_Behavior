@@ -24,7 +24,6 @@ This analysis used a rich dataset with details like monthly sales, store codes, 
 
 
 ### Key Business Insights
-
 The analysis provided valuable insights for supermarkets:
 
 - **Store-Specific Strategies:** High-performing stores like N8 set benchmarks, while low performers like N7 need targeted improvements.
