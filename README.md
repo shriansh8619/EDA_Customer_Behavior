@@ -1,6 +1,5 @@
 # Customer Behavior Analysis Project
 Understanding customer behavior is key to improving business strategies. This project analyzes transaction data to identify preferences, buying patterns, and decision-making trends. Using **Exploratory Data Analysis** (EDA) techniques like data visualization and summary statistics, we uncover valuable insights to enhance customer satisfaction, retention, and profitability.
-
 ### The Nielsen Advantage
 Nielsen's transaction data from supermarkets and grocery stores provides a clear picture of consumer habits, offering businesses a powerful tool to understand their customers.
 
