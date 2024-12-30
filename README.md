@@ -5,7 +5,6 @@ Nielsen's transaction data from supermarkets and grocery stores provides a clear
 ### Project Goal
 The aim is to identify key customer trends and buying patterns. Using Python's data analysis tools,it help businesses refine strategies and improve customer retention and profits.
 ### Customer Behavior Analysis Insights
-
 This analysis used a rich dataset with details like monthly sales, store codes, bill IDs, product quantities, and brand information. Leveraging Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn, we achieved the following:
 
 - **Sales Trends:** Identified peak and low sales months to optimize inventory and promotions.
